@@ -23,7 +23,7 @@ Hello! I'm Paras, a passionate backend developer with a strong problem-solving a
 ## Contact Information
 
 - Email:parassharma2023@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/paras-sharma-2589531ab/)
+- LinkedIn:(https://www.linkedin.com/in/paras-sharma-2589531ab/)
 
 Feel free to reach out if you have any questions or would like to discuss potential collaborations.
 
