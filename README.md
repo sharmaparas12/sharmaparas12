@@ -1,30 +1,70 @@
-# About Me
+### Hi there, I'm Paras Sharma! 👋
 
-Hello! I'm Paras, a passionate backend developer with a strong problem-solving aptitude. I hold a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering from Graphic Era University.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&width=435&lines=Passionate+Backend+Developer;Problem+Solver+%7C+Web+%7C+API+Expert)
 
-## Skills and Expertise
+---
 
-- Backend Development: I have a deep interest in backend development and enjoy working with technologies such as Node.js and JavaScript.
-- Problem Solving: I have a strong problem-solving aptitude and enjoy tackling complex challenges.
-- Web Development: I have experience in building web applications using modern technologies and frameworks.
-- Database Management: I am familiar with working with databases and have knowledge of database management systems.
-- API Development: I have developed RESTful APIs using Node.js and Express.js.
-- Version Control: I am proficient in using Git for version control and collaboration.
+### 🌟 About Me
+- 🎓 **B.Tech in Computer Science** from Graphic Era University
+- 💡 Passionate about **Backend Development, APIs, and Scalable Systems**
+- 🏆 Strong problem-solving skills | Competitive coding enthusiast
+- 📌 **LeetCode:** [vzag123](https://leetcode.com/vzag123/) | **GitHub:** [paras-sharma](https://github.com/paras-sharma)
 
-## Education
+---
 
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering
-  - Graphic Era University
+### 🚀 Featured Projects
 
-## Projects
+#### ⚡ Scalable API Service
+🔗 [GitHub Repository](#)
+- 🛠 **Tech Stack:** Node.js, Express.js, MongoDB, JWT
+- 🚀 Designed **high-performance RESTful APIs** for seamless data exchange
+- 🔐 Implemented **JWT authentication** for secure user management
+- 📊 Optimized database queries for **50% faster response times**
 
-- List any notable projects you have worked on, highlighting your role and the technologies used.
+#### 🌍 Global Weather App
+🔗 [GitHub Repository](#)
+- 🛠 **Tech Stack:** Node.js, Express.js, OpenWeather API, React.js
+- 🌦️ Integrated **real-time weather updates** with dynamic UI
+- ⚡ Optimized API requests using **caching techniques**
 
-## Contact Information
+#### 🛒 E-Commerce Backend System
+🔗 [GitHub Repository](#)
+- 🛠 **Tech Stack:** Node.js, Express.js, MongoDB, Redis, RabbitMQ
+- 🏬 Developed **scalable backend architecture** for an e-commerce platform
+- 🔄 Implemented **order management, payment integration & caching**
 
-- Email:parassharma2023@gmail.com
-- LinkedIn:(https://www.linkedin.com/in/paras-sharma-2589531ab/)
+---
 
-Feel free to reach out if you have any questions or would like to discuss potential collaborations.
+### 🛠 Skill Set
 
-Thank you for visiting my profile!
+#### 🚀 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### 🌐 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+### 📊 Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paras-sharma&layout=compact&theme=radical)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paras-sharma&show_icons=true&theme=radical)
+
+### 🔥 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vzag123?theme=dark&font=Abel&ext=heatmap)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-sharma-2589531ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paras-sharma)
